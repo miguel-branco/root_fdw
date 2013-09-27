@@ -1,0 +1,5 @@
+# root_fdw extension
+comment = 'foreign-data wrapper for ROOT files'
+default_version = '1.0'
+module_pathname = '$libdir/root_fdw'
+relocatable = true
