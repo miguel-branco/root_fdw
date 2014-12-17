@@ -1,5 +1,7 @@
 root_fdw
 ========
 
-Place within pgsql/contrib/.
-Then do make install
+Requires [librootcursor](https://github.com/miguel-branco/librootcursor).
+
+1. Place within pgsql/contrib/.
+2. Then do `make install`.
